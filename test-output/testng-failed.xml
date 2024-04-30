@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="utilities.ExtentReportGenerator"/>
+  </listeners>
+  <test thread-count="5" name="ChromeTest(failed)">
+    <parameter name="search" value="web development courses"/>
+    <parameter name="os" value="windows"/>
+    <parameter name="browser" value="Chrome"/>
+    <groups>
+      <run>
+        <include name="Smoke"/>
+        <include name="Regression"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="testCases.TestCase_002_LanguageLearningValidation">
+        <methods>
+          <include name="tearDown"/>
+          <include name="languagesListValidation"/>
+          <include name="setUp"/>
+          <include name="levelsListValidation"/>
+          <include name="SiteValidation"/>
+          <include name="searchValidation"/>
+        </methods>
+      </class> <!-- testCases.TestCase_002_LanguageLearningValidation -->
+      <class name="testCases.TestCase_001_WebDevelopmentValidation">
+        <methods>
+          <include name="tearDown"/>
+          <include name="levelsValidation"/>
+          <include name="firstCourseOpening"/>
+          <include name="firstCourseDuration"/>
+          <include name="firstCourseTitle"/>
+          <include name="searchValidation"/>
+          <include name="setUp"/>
+          <include name="SecondCourseOpening"/>
+          <include name="languageValidation"/>
+          <include name="firstCourseRating"/>
+          <include name="SiteValidation"/>
+          <include name="backToMain"/>
+        </methods>
+      </class> <!-- testCases.TestCase_001_WebDevelopmentValidation -->
+      <class name="testCases.TestCase_003_EnterpriseValidation">
+        <methods>
+          <include name="Formfilling"/>
+          <include name="Submitform3"/>
+          <include name="tearDown"/>
+          <include name="Submitform"/>
+          <include name="Formfilling2"/>
+          <include name="Enterprise"/>
+          <include name="setUp"/>
+          <include name="VerifyMsg"/>
+          <include name="VerifyMsg3"/>
+          <include name="VerifyMsg2"/>
+          <include name="Formfilling3"/>
+          <include name="Submitform2"/>
+        </methods>
+      </class> <!-- testCases.TestCase_003_EnterpriseValidation -->
+    </classes>
+  </test> <!-- ChromeTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->

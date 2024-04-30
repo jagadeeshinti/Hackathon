@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="29" passed="29" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-22T13:25:23 IST" name="Surefire suite" finished-at="2024-04-22T13:31:13 IST" duration-ms="350565">
+    <groups>
+      <group name="Regression">
+        <method signature="TestCase_001_WebDevelopmentValidation.SiteValidation()[pri:1, instance:testCases.TestCase_001_WebDevelopmentValidation@795cd85e]" name="SiteValidation" class="testCases.TestCase_001_WebDevelopmentValidation"/>
+        <method signature="TestCase_001_WebDevelopmentValidation.searchValidation()[pri:2, instance:testCases.TestCase_001_WebDevelopmentValidation@795cd85e]" name="searchValidation" class="testCases.TestCase_001_WebDevelopmentValidation"/>
+        <method signature="TestCase_002_LanguageLearningValidation.searchValidation()[pri:2, instance:testCases.TestCase_002_LanguageLearningValidation@1d9b7cce]" name="searchValidation" class="testCases.TestCase_002_LanguageLearningValidation"/>
+        <method signature="TestCase_003_EnterpriseValidation.Enterprise()[pri:2, instance:testCases.TestCase_003_EnterpriseValidation@4d9e68d0]" name="Enterprise" class="testCases.TestCase_003_EnterpriseValidation"/>
+        <method signature="TestCase_001_WebDevelopmentValidation.languageValidation()[pri:3, instance:testCases.TestCase_001_WebDevelopmentValidation@795cd85e]" name="languageValidation" class="testCases.TestCase_001_WebDevelopmentValidation"/>
+        <method signature="TestCase_002_LanguageLearningValidation.languagesListValidation()[pri:3, instance:testCases.TestCase_002_LanguageLearningValidation@1d9b7cce]" name="languagesListValidation" class="testCases.TestCase_002_LanguageLearningValidation"/>
+        <method signature="TestCase_003_EnterpriseValidation.Formfilling()[pri:3, instance:testCases.TestCase_003_EnterpriseValidation@4d9e68d0]" name="Formfilling" class="testCases.TestCase_003_EnterpriseValidation"/>
+        <method signature="TestCase_001_WebDevelopmentValidation.levelsValidation()[pri:4, instance:testCases.TestCase_001_WebDevelopmentValidation@795cd85e]" name="levelsValidation" class="testCases.TestCase_001_WebDevelopmentValidation"/>
+        <method signature="TestCase_002_LanguageLearningValidation.levelsListValidation()[pri:4, instance:testCases.TestCase_002_LanguageLearningValidation@1d9b7cce]" name="levelsListValidation" class="testCases.TestCase_002_LanguageLearningValidation"/>
+        <method signature="TestCase_003_EnterpriseValidation.Submitform()[pri:4, instance:testCases.TestCase_003_EnterpriseValidation@4d9e68d0]" name="Submitform" class="testCases.TestCase_003_EnterpriseValidation"/>
+        <method signature="TestCase_001_WebDevelopmentValidation.firstCourseOpening()[pri:5, instance:testCases.TestCase_001_WebDevelopmentValidation@795cd85e]" name="firstCourseOpening" class="testCases.TestCase_001_WebDevelopmentValidation"/>
+        <method signature="TestCase_003_EnterpriseValidation.VerifyMsg()[pri:5, instance:testCases.TestCase_003_EnterpriseValidation@4d9e68d0]" name="VerifyMsg" class="testCases.TestCase_003_EnterpriseValidation"/>
+        <method signature="TestCase_001_WebDevelopmentValidation.firstCourseTitle()[pri:6, instance:testCases.TestCase_001_WebDevelopmentValidation@795cd85e]" name="firstCourseTitle" class="testCases.TestCase_001_WebDevelopmentValidation"/>
+        <method signature="TestCase_003_EnterpriseValidation.Formfilling2()[pri:6, instance:testCases.TestCase_003_EnterpriseValidation@4d9e68d0]" name="Formfilling2" class="testCases.TestCase_003_EnterpriseValidation"/>
+        <method signature="TestCase_001_WebDevelopmentValidation.firstCourseRating()[pri:7, instance:testCases.TestCase_001_WebDevelopmentValidation@795cd85e]" name="firstCourseRating" class="testCases.TestCase_001_WebDevelopmentValidation"/>
+        <method signature="TestCase_003_EnterpriseValidation.Submitform2()[pri:7, instance:testCases.TestCase_003_EnterpriseValidation@4d9e68d0]" name="Submitform2" class="testCases.TestCase_003_EnterpriseValidation"/>
+        <method signature="TestCase_001_WebDevelopmentValidation.firstCourseDuration()[pri:8, instance:testCases.TestCase_001_WebDevelopmentValidation@795cd85e]" name="firstCourseDuration" class="testCases.TestCase_001_WebDevelopmentValidation"/>
+        <method signature="TestCase_003_EnterpriseValidation.VerifyMsg2()[pri:8, instance:testCases.TestCase_003_EnterpriseValidation@4d9e68d0]" name="VerifyMsg2" class="testCases.TestCase_003_EnterpriseValidation"/>
+        <method signature="TestCase_001_WebDevelopmentValidation.backToMain()[pri:9, instance:testCases.TestCase_001_WebDevelopmentValidation@795cd85e]" name="backToMain" class="testCases.TestCase_001_WebDevelopmentValidation"/>
+        <method signature="TestCase_003_EnterpriseValidation.Formfilling3()[pri:9, instance:testCases.TestCase_003_EnterpriseValidation@4d9e68d0]" name="Formfilling3" class="testCases.TestCase_003_EnterpriseValidation"/>
+        <method signature="TestCase_001_WebDevelopmentValidation.SecondCourseOpening()[pri:10, instance:testCases.TestCase_001_WebDevelopmentValidation@795cd85e]" name="SecondCourseOpening" class="testCases.TestCase_001_WebDevelopmentValidation"/>
+        <method signature="TestCase_003_EnterpriseValidation.Submitform3()[pri:10, instance:testCases.TestCase_003_EnterpriseValidation@4d9e68d0]" name="Submitform3" class="testCases.TestCase_003_EnterpriseValidation"/>
+        <method signature="TestCase_001_WebDevelopmentValidation.SecondCourseTitle()[pri:11, instance:testCases.TestCase_001_WebDevelopmentValidation@795cd85e]" name="SecondCourseTitle" class="testCases.TestCase_001_WebDevelopmentValidation"/>
+        <method signature="TestCase_003_EnterpriseValidation.VerifyMsg3()[pri:11, instance:testCases.TestCase_003_EnterpriseValidation@4d9e68d0]" name="VerifyMsg3" class="testCases.TestCase_003_EnterpriseValidation"/>
+        <method signature="TestCase_001_WebDevelopmentValidation.SecondCourseRating()[pri:12, instance:testCases.TestCase_001_WebDevelopmentValidation@795cd85e]" name="SecondCourseRating" class="testCases.TestCase_001_WebDevelopmentValidation"/>
+        <method signature="TestCase_001_WebDevelopmentValidation.SecondCourseDuration()[pri:13, instance:testCases.TestCase_001_WebDevelopmentValidation@795cd85e]" name="SecondCourseDuration" class="testCases.TestCase_001_WebDevelopmentValidation"/>
+        <method signature="TestCase_001_WebDevelopmentValidation.backToMainPage()[pri:14, instance:testCases.TestCase_001_WebDevelopmentValidation@795cd85e]" name="backToMainPage" class="testCases.TestCase_001_WebDevelopmentValidation"/>
+      </group> <!-- Regression -->
+      <group name="Smoke">
+        <method signature="TestCase_002_LanguageLearningValidation.SiteValidation()[pri:1, instance:testCases.TestCase_002_LanguageLearningValidation@1d9b7cce]" name="SiteValidation" class="testCases.TestCase_002_LanguageLearningValidation"/>
+      </group> <!-- Smoke -->
+    </groups>
+    <test started-at="2024-04-22T13:25:23 IST" name="Surefire test" finished-at="2024-04-22T13:31:13 IST" duration-ms="350565">
+      <class name="testCases.TestCase_002_LanguageLearningValidation">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.TestCase_002_LanguageLearningValidation@1d9b7cce]" started-at="2024-04-22T13:27:35 IST" name="setUp" finished-at="2024-04-22T13:28:19 IST" duration-ms="43832" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="SiteValidation()[pri:1, instance:testCases.TestCase_002_LanguageLearningValidation@1d9b7cce]" started-at="2024-04-22T13:28:19 IST" name="SiteValidation" finished-at="2024-04-22T13:28:45 IST" duration-ms="26218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SiteValidation -->
+        <test-method signature="searchValidation()[pri:2, instance:testCases.TestCase_002_LanguageLearningValidation@1d9b7cce]" started-at="2024-04-22T13:28:45 IST" name="searchValidation" finished-at="2024-04-22T13:28:53 IST" depends-on-methods="testCases.TestCase_002_LanguageLearningValidation.SiteValidation" duration-ms="7951" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchValidation -->
+        <test-method signature="languagesListValidation()[pri:3, instance:testCases.TestCase_002_LanguageLearningValidation@1d9b7cce]" started-at="2024-04-22T13:28:53 IST" name="languagesListValidation" finished-at="2024-04-22T13:28:59 IST" depends-on-methods="testCases.TestCase_002_LanguageLearningValidation.searchValidation" duration-ms="5971" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- languagesListValidation -->
+        <test-method signature="levelsListValidation()[pri:4, instance:testCases.TestCase_002_LanguageLearningValidation@1d9b7cce]" started-at="2024-04-22T13:28:59 IST" name="levelsListValidation" finished-at="2024-04-22T13:29:04 IST" depends-on-methods="testCases.TestCase_002_LanguageLearningValidation.searchValidation" duration-ms="4562" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- levelsListValidation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TestCase_002_LanguageLearningValidation@1d9b7cce]" started-at="2024-04-22T13:29:04 IST" name="tearDown" finished-at="2024-04-22T13:29:06 IST" duration-ms="2877" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TestCase_002_LanguageLearningValidation -->
+      <class name="testCases.TestCase_001_WebDevelopmentValidation">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.TestCase_001_WebDevelopmentValidation@795cd85e]" started-at="2024-04-22T13:25:23 IST" name="setUp" finished-at="2024-04-22T13:26:07 IST" duration-ms="44283" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="SiteValidation()[pri:1, instance:testCases.TestCase_001_WebDevelopmentValidation@795cd85e]" started-at="2024-04-22T13:26:07 IST" name="SiteValidation" finished-at="2024-04-22T13:26:35 IST" duration-ms="28087" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SiteValidation -->
+        <test-method signature="searchValidation()[pri:2, instance:testCases.TestCase_001_WebDevelopmentValidation@795cd85e]" started-at="2024-04-22T13:26:35 IST" name="searchValidation" finished-at="2024-04-22T13:26:43 IST" depends-on-methods="testCases.TestCase_001_WebDevelopmentValidation.SiteValidation" duration-ms="7583" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchValidation -->
+        <test-method signature="languageValidation()[pri:3, instance:testCases.TestCase_001_WebDevelopmentValidation@795cd85e]" started-at="2024-04-22T13:26:43 IST" name="languageValidation" finished-at="2024-04-22T13:26:47 IST" depends-on-methods="testCases.TestCase_001_WebDevelopmentValidation.searchValidation" duration-ms="4807" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- languageValidation -->
+        <test-method signature="levelsValidation()[pri:4, instance:testCases.TestCase_001_WebDevelopmentValidation@795cd85e]" started-at="2024-04-22T13:26:47 IST" name="levelsValidation" finished-at="2024-04-22T13:26:52 IST" depends-on-methods="testCases.TestCase_001_WebDevelopmentValidation.languageValidation" duration-ms="4323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- levelsValidation -->
+        <test-method signature="firstCourseOpening()[pri:5, instance:testCases.TestCase_001_WebDevelopmentValidation@795cd85e]" started-at="2024-04-22T13:26:52 IST" name="firstCourseOpening" finished-at="2024-04-22T13:27:04 IST" depends-on-methods="testCases.TestCase_001_WebDevelopmentValidation.levelsValidation" duration-ms="12121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstCourseOpening -->
+        <test-method signature="firstCourseTitle()[pri:6, instance:testCases.TestCase_001_WebDevelopmentValidation@795cd85e]" started-at="2024-04-22T13:27:04 IST" name="firstCourseTitle" finished-at="2024-04-22T13:27:08 IST" duration-ms="4143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstCourseTitle -->
+        <test-method signature="firstCourseRating()[pri:7, instance:testCases.TestCase_001_WebDevelopmentValidation@795cd85e]" started-at="2024-04-22T13:27:08 IST" name="firstCourseRating" finished-at="2024-04-22T13:27:09 IST" depends-on-methods="testCases.TestCase_001_WebDevelopmentValidation.firstCourseTitle" duration-ms="1400" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstCourseRating -->
+        <test-method signature="firstCourseDuration()[pri:8, instance:testCases.TestCase_001_WebDevelopmentValidation@795cd85e]" started-at="2024-04-22T13:27:09 IST" name="firstCourseDuration" finished-at="2024-04-22T13:27:11 IST" depends-on-methods="testCases.TestCase_001_WebDevelopmentValidation.firstCourseRating" duration-ms="1215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstCourseDuration -->
+        <test-method signature="backToMain()[pri:9, instance:testCases.TestCase_001_WebDevelopmentValidation@795cd85e]" started-at="2024-04-22T13:27:11 IST" name="backToMain" finished-at="2024-04-22T13:27:12 IST" depends-on-methods="testCases.TestCase_001_WebDevelopmentValidation.firstCourseTitle" duration-ms="1101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- backToMain -->
+        <test-method signature="SecondCourseOpening()[pri:10, instance:testCases.TestCase_001_WebDevelopmentValidation@795cd85e]" started-at="2024-04-22T13:27:12 IST" name="SecondCourseOpening" finished-at="2024-04-22T13:27:24 IST" duration-ms="12111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SecondCourseOpening -->
+        <test-method signature="SecondCourseTitle()[pri:11, instance:testCases.TestCase_001_WebDevelopmentValidation@795cd85e]" started-at="2024-04-22T13:27:24 IST" name="SecondCourseTitle" finished-at="2024-04-22T13:27:28 IST" duration-ms="4169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SecondCourseTitle -->
+        <test-method signature="SecondCourseRating()[pri:12, instance:testCases.TestCase_001_WebDevelopmentValidation@795cd85e]" started-at="2024-04-22T13:27:28 IST" name="SecondCourseRating" finished-at="2024-04-22T13:27:29 IST" depends-on-methods="testCases.TestCase_001_WebDevelopmentValidation.SecondCourseTitle" duration-ms="1372" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SecondCourseRating -->
+        <test-method signature="SecondCourseDuration()[pri:13, instance:testCases.TestCase_001_WebDevelopmentValidation@795cd85e]" started-at="2024-04-22T13:27:29 IST" name="SecondCourseDuration" finished-at="2024-04-22T13:27:31 IST" depends-on-methods="testCases.TestCase_001_WebDevelopmentValidation.firstCourseRating" duration-ms="1166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SecondCourseDuration -->
+        <test-method signature="backToMainPage()[pri:14, instance:testCases.TestCase_001_WebDevelopmentValidation@795cd85e]" started-at="2024-04-22T13:27:31 IST" name="backToMainPage" finished-at="2024-04-22T13:27:32 IST" depends-on-methods="testCases.TestCase_001_WebDevelopmentValidation.firstCourseTitle" duration-ms="1111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- backToMainPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TestCase_001_WebDevelopmentValidation@795cd85e]" started-at="2024-04-22T13:27:32 IST" name="tearDown" finished-at="2024-04-22T13:27:35 IST" duration-ms="3408" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TestCase_001_WebDevelopmentValidation -->
+      <class name="testCases.TestCase_003_EnterpriseValidation">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.TestCase_003_EnterpriseValidation@4d9e68d0]" started-at="2024-04-22T13:29:06 IST" name="setUp" finished-at="2024-04-22T13:29:51 IST" duration-ms="45039" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="SiteValidation()[pri:1, instance:testCases.TestCase_003_EnterpriseValidation@4d9e68d0]" started-at="2024-04-22T13:29:51 IST" name="SiteValidation" finished-at="2024-04-22T13:30:18 IST" duration-ms="26107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SiteValidation -->
+        <test-method signature="Enterprise()[pri:2, instance:testCases.TestCase_003_EnterpriseValidation@4d9e68d0]" started-at="2024-04-22T13:30:18 IST" name="Enterprise" finished-at="2024-04-22T13:30:26 IST" duration-ms="8374" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Enterprise -->
+        <test-method signature="Formfilling()[pri:3, instance:testCases.TestCase_003_EnterpriseValidation@4d9e68d0]" started-at="2024-04-22T13:30:26 IST" name="Formfilling" finished-at="2024-04-22T13:30:31 IST" duration-ms="5377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Formfilling -->
+        <test-method signature="Submitform()[pri:4, instance:testCases.TestCase_003_EnterpriseValidation@4d9e68d0]" started-at="2024-04-22T13:30:31 IST" name="Submitform" finished-at="2024-04-22T13:30:31 IST" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Submitform -->
+        <test-method signature="VerifyMsg()[pri:5, instance:testCases.TestCase_003_EnterpriseValidation@4d9e68d0]" started-at="2024-04-22T13:30:31 IST" name="VerifyMsg" finished-at="2024-04-22T13:30:32 IST" duration-ms="694" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyMsg -->
+        <test-method signature="Formfilling2()[pri:6, instance:testCases.TestCase_003_EnterpriseValidation@4d9e68d0]" started-at="2024-04-22T13:30:32 IST" name="Formfilling2" finished-at="2024-04-22T13:30:43 IST" duration-ms="11115" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Formfilling2 -->
+        <test-method signature="Submitform2()[pri:7, instance:testCases.TestCase_003_EnterpriseValidation@4d9e68d0]" started-at="2024-04-22T13:30:43 IST" name="Submitform2" finished-at="2024-04-22T13:30:43 IST" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Submitform2 -->
+        <test-method signature="VerifyMsg2()[pri:8, instance:testCases.TestCase_003_EnterpriseValidation@4d9e68d0]" started-at="2024-04-22T13:30:43 IST" name="VerifyMsg2" finished-at="2024-04-22T13:30:44 IST" duration-ms="646" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyMsg2 -->
+        <test-method signature="Formfilling3()[pri:9, instance:testCases.TestCase_003_EnterpriseValidation@4d9e68d0]" started-at="2024-04-22T13:30:44 IST" name="Formfilling3" finished-at="2024-04-22T13:30:49 IST" duration-ms="5211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Formfilling3 -->
+        <test-method signature="Submitform3()[pri:10, instance:testCases.TestCase_003_EnterpriseValidation@4d9e68d0]" started-at="2024-04-22T13:30:49 IST" name="Submitform3" finished-at="2024-04-22T13:30:49 IST" duration-ms="46" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Submitform3 -->
+        <test-method signature="VerifyMsg3()[pri:11, instance:testCases.TestCase_003_EnterpriseValidation@4d9e68d0]" started-at="2024-04-22T13:30:49 IST" name="VerifyMsg3" finished-at="2024-04-22T13:31:09 IST" duration-ms="20299" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyMsg3 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TestCase_003_EnterpriseValidation@4d9e68d0]" started-at="2024-04-22T13:31:09 IST" name="tearDown" finished-at="2024-04-22T13:31:13 IST" duration-ms="3677" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TestCase_003_EnterpriseValidation -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

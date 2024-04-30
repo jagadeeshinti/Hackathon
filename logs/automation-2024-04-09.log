@@ -1,0 +1,36 @@
+14:08:55.351 [main] INFO  testCases.TestCase_001_WebDevelopmentValidation - ------Driver switched from Main page to First Course Page successfully------
+14:08:59.487 [main] INFO  testCases.TestCase_001_WebDevelopmentValidation - ------First course name fetched successfully------
+14:09:00.766 [main] INFO  testCases.TestCase_001_WebDevelopmentValidation - ------First Course Rating fetched successfully------
+14:09:01.896 [main] INFO  testCases.TestCase_001_WebDevelopmentValidation - ------First Course Duration fetched successfully------
+14:09:02.972 [main] INFO  testCases.TestCase_001_WebDevelopmentValidation - ------Driver switched from First Course page to Main Page and closed First course page closed successfully------
+14:09:15.119 [main] INFO  testCases.TestCase_001_WebDevelopmentValidation - ------Driver switched from Main page to Second Course Page successfully------
+14:09:19.218 [main] INFO  testCases.TestCase_001_WebDevelopmentValidation - ------Second course name fetched successfully------
+14:09:28.622 [main] INFO  testCases.TestCase_001_WebDevelopmentValidation - ------Second course rating fetched successfully------
+14:09:37.770 [main] INFO  testCases.TestCase_001_WebDevelopmentValidation - ------Second course duration fetched successfully------
+14:09:38.850 [main] INFO  testCases.TestCase_001_WebDevelopmentValidation - ------Driver switched from Second Course page to Main Page and closed First course page closed successfully------
+14:10:00.520 [main] INFO  testCases.TestCase_002_LanguageLearningValidation - ------Coursera home page validated successfully------
+14:10:09.345 [main] INFO  testCases.TestCase_002_LanguageLearningValidation - ------Entered value WebDevelopment successfully------
+14:10:14.739 [main] INFO  testCases.TestCase_002_LanguageLearningValidation - ------Languages list fetched successfully------
+14:10:19.118 [main] INFO  testCases.TestCase_002_LanguageLearningValidation - ------Levels list fetched successfully------
+14:10:46.294 [main] INFO  testCases.TestCase_003_EnterpriseValidation - ------Enterprise page is opened successfully------
+14:10:47.538 [main] INFO  testCases.TestCase_003_EnterpriseValidation - ------Courses for Campus form with invalid details (email) are filled successfully------
+14:10:52.121 [main] INFO  testCases.TestCase_003_EnterpriseValidation - ------Verify message for invalid details thrown successfully------
+14:10:52.952 [main] INFO  testCases.TestCase_003_EnterpriseValidation - ------Courses for Campus form with invalid details(phone) are filled successfully------
+14:11:03.466 [main] INFO  testCases.TestCase_003_EnterpriseValidation - ------Verify message for invalid details thrown successfully------
+14:11:04.377 [main] INFO  testCases.TestCase_003_EnterpriseValidation - ------Courses for Campus form with valid details are filled successfully------
+14:11:28.654 [main] INFO  testCases.TestCase_003_EnterpriseValidation - ------Verify message for valid details are captured successfully------
+14:55:29.532 [main] INFO  testCases.TestCase_001_WebDevelopmentValidation - ------Coursera home page successfully------
+14:55:38.230 [main] INFO  testCases.TestCase_001_WebDevelopmentValidation - ------Entered value WebDevelopment successfully------
+14:55:42.989 [main] INFO  testCases.TestCase_001_WebDevelopmentValidation - ------Successfully clicked Language------
+14:55:47.421 [main] INFO  testCases.TestCase_001_WebDevelopmentValidation - ------Successfully clicked Level------
+14:55:59.512 [main] INFO  testCases.TestCase_001_WebDevelopmentValidation - ------Driver switched from Main page to First Course Page successfully------
+14:56:03.627 [main] INFO  testCases.TestCase_001_WebDevelopmentValidation - ------First course name fetched successfully------
+14:56:04.907 [main] INFO  testCases.TestCase_001_WebDevelopmentValidation - ------First Course Rating fetched successfully------
+14:56:06.088 [main] INFO  testCases.TestCase_001_WebDevelopmentValidation - ------First Course Duration fetched successfully------
+14:56:07.166 [main] INFO  testCases.TestCase_001_WebDevelopmentValidation - ------Driver switched from First Course page to Main Page and closed First course page closed successfully------
+14:56:19.263 [main] INFO  testCases.TestCase_001_WebDevelopmentValidation - ------Driver switched from Main page to Second Course Page successfully------
+14:56:23.329 [main] INFO  testCases.TestCase_001_WebDevelopmentValidation - ------Second course name fetched successfully------
+14:56:24.627 [main] INFO  testCases.TestCase_001_WebDevelopmentValidation - ------Second course rating fetched successfully------
+14:56:25.715 [main] INFO  testCases.TestCase_001_WebDevelopmentValidation - ------Second course duration fetched successfully------
+14:56:26.804 [main] INFO  testCases.TestCase_001_WebDevelopmentValidation - ------Driver switched from Second Course page to Main Page and closed First course page closed successfully------
+14:57:03.410 [main] INFO  testCases.TestCase_002_LanguageLearningValidation - ------Coursera home page validated successfully------

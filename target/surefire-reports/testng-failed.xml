@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Surefire suite]" verbose="0">
+  <test thread-count="5" name="Surefire test(failed)" verbose="0">
+    <classes>
+      <class name="testCases.TestCase_001_SiteValidation">
+        <methods>
+          <include name="SiteValidation"/>
+          <include name="languageValidation"/>
+          <include name="SecondCourseOpening"/>
+          <include name="backToMainPage"/>
+          <include name="firstCourseTitle"/>
+          <include name="setUp"/>
+          <include name="firstCourseOpening"/>
+          <include name="languagesListValidation"/>
+          <include name="backToMain"/>
+          <include name="tearDown"/>
+          <include name="firstCourseRating"/>
+          <include name="firstCourseDuration"/>
+          <include name="searchValidation"/>
+          <include name="levelsValidation"/>
+          <include name="SecondCourseDuration"/>
+        </methods>
+      </class> <!-- testCases.TestCase_001_SiteValidation -->
+    </classes>
+  </test> <!-- Surefire test(failed) -->
+</suite> <!-- Failed suite [Surefire suite] -->
